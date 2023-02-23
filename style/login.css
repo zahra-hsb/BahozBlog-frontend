@@ -176,7 +176,7 @@
     box-shadow: inset 8px 8px 12px var(--neu-2),
        inset -8px -8px 12px var(--white);
     bottom: -60%;
-    left: -60%;
+    left: -45%;
     transition: var(--transition);
 }
 .switch__circle--t{
