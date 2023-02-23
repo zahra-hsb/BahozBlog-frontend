@@ -22,7 +22,7 @@ let changeForm = (e) => {
     }, 1500)
 
     switchCtn.classList.toggle("is-txr");
-    switchCircle[0].classList.toggle("is-txr");
+    switchCircle[0].classList.toggle("circle__left");
     // switchCircle[1].classList.toggle("is-txr");
 
     switchC1.classList.toggle("is-hidden");

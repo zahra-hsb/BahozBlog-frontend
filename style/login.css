@@ -185,7 +185,9 @@
     width: 300px;
     height: 300px;
 }
-    
+.circle__left{
+    left: 45%;
+}
 .switch__container{
     display: flex;
     justify-content: center;
